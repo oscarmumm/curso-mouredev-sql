@@ -1,0 +1,1 @@
+Estos son los apuntes de un curso de SQL dado por Brais Moure en su canal de YouTube
